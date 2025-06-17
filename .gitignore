@@ -1,0 +1,13 @@
+build/*
+upmem-2021.3.0-Linux-x86_64/src/backends/compile_commands.json
+upmem-2021.3.0-Linux-x86_64/src/backends/build/*
+upmem-2021.3.0-Linux-x86_64/lib
+upmem-2021.3.0-Linux-x86_64/share
+src/dpu/bin/*
+SPIDJoin*
+src/*.o
+src/jsoncpp/*.o
+src/tests/*.o
+*.bin
+spidjoin_test.bin
+lib/libspidjoin.so
